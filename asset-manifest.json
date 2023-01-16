@@ -1,39 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb68e931.css",
-    "main.js": "/static/js/main.d552c99d.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/portrait-successful-mid-adult-doctor-with-crossed-arms_1262-12865 1.png": "/static/media/portrait-successful-mid-adult-doctor-with-crossed-arms_1262-12865 1.3d99c66d7436775bb6f9.png",
-    "static/media/portrait-successful-mid-adult-doctor-with-crossed-arms_1262-12865 1-1.png": "/static/media/portrait-successful-mid-adult-doctor-with-crossed-arms_1262-12865 1-1.52fa69b242c128bcbde1.png",
-    "static/media/asian-young-main-group-hospital-professional_1291-37 1-1.png": "/static/media/asian-young-main-group-hospital-professional_1291-37 1-1.a0e2346e0ff44c6dcfbe.png",
-    "static/media/asian-young-main-group-hospital-professional_1291-37 1.png": "/static/media/asian-young-main-group-hospital-professional_1291-37 1.6385b74300f012fdf9b7.png",
-    "static/media/asian-young-main-group-hospital-professional_1291-37 1-2.png": "/static/media/asian-young-main-group-hospital-professional_1291-37 1-2.c5471311e642784bd451.png",
-    "static/media/Group 1.png": "/static/media/Group 1.99dac5c6235e2d423860.png",
-    "static/media/logo.png": "/static/media/logo.600e6943c9bb7edc0c5d.png",
-    "static/media/Rectangle 84-5.png": "/static/media/Rectangle 84-5.56c1b608641a7690b230.png",
-    "static/media/Rectangle 84-4.png": "/static/media/Rectangle 84-4.70cc01ba090490b36434.png",
-    "static/media/Rectangle 84-3.png": "/static/media/Rectangle 84-3.b86cc82e6571d7d80fc8.png",
-    "static/media/Rectangle 84-14.png": "/static/media/Rectangle 84-14.522c96a5768f4ec1c15b.png",
-    "static/media/Rectangle 84.png": "/static/media/Rectangle 84.b09a6d3447b57dce6f54.png",
-    "static/media/Rectangle 84-13.png": "/static/media/Rectangle 84-13.4019b6c97a4dcecb4a11.png",
-    "static/media/Rectangle 84-2.png": "/static/media/Rectangle 84-2.ff5a8f281bf6db58a655.png",
-    "static/media/Rectangle 84-12.png": "/static/media/Rectangle 84-12.e72ae7785b87430caca7.png",
-    "static/media/Rectangle 84-8.png": "/static/media/Rectangle 84-8.bcf9151fc81ae4689ed3.png",
-    "static/media/Rectangle 84-6.png": "/static/media/Rectangle 84-6.ea26c0e8952bef70e4c7.png",
-    "static/media/Rectangle 84-16.png": "/static/media/Rectangle 84-16.2a85d27fe01f34f4acc7.png",
-    "static/media/Rectangle 84-1.png": "/static/media/Rectangle 84-1.1663d385df3dc186906c.png",
-    "static/media/Rectangle 84-11.png": "/static/media/Rectangle 84-11.da4cd4cdbc059906569c.png",
-    "static/media/Rectangle 84-7.png": "/static/media/Rectangle 84-7.56efcc27a01d7c6b1674.png",
-    "static/media/Rectangle 84-10.png": "/static/media/Rectangle 84-10.dcd086421b728edabefa.png",
-    "static/media/Rectangle 84-15.png": "/static/media/Rectangle 84-15.046ac9b5c1cf843d85fb.png",
-    "static/media/Rectangle 84-9.png": "/static/media/Rectangle 84-9.e8776e04e4871739e429.png",
+    "main.css": "/static/css/main.e0149767.css",
+    "main.js": "/static/js/main.42c9c214.js",
+    "static/media/InterBold.ttf": "/static/media/InterBold.88fa7ae373b07b41ecce.ttf",
+    "static/media/InterSemiBold.ttf": "/static/media/InterSemiBold.4d56bb21f2399db8ad48.ttf",
+    "static/media/InterMedium.ttf": "/static/media/InterMedium.6dcbc9bed1ec438907ee.ttf",
+    "static/media/InterRegular.ttf": "/static/media/InterRegular.e89cb19905e7db5591b0.ttf",
     "index.html": "/index.html",
-    "main.bb68e931.css.map": "/static/css/main.bb68e931.css.map",
-    "main.d552c99d.js.map": "/static/js/main.d552c99d.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.e0149767.css.map": "/static/css/main.e0149767.css.map",
+    "main.42c9c214.js.map": "/static/js/main.42c9c214.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb68e931.css",
-    "static/js/main.d552c99d.js"
+    "static/css/main.e0149767.css",
+    "static/js/main.42c9c214.js"
   ]
 }
