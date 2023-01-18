@@ -1,7 +1,7 @@
 .staff_photo {
-    width: 80%;
+    width: 85%;
     border: 0.5rem solid rgba(0, 128, 0, 0.596);
-    border-radius: 0rem 10rem;
+    border-radius: 0rem 4rem;
 }
 
 .staff_lg_coat {

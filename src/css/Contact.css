@@ -1,0 +1,25 @@
+.contact_page {
+    margin: 1rem auto;
+    padding: 2rem 0;
+    width: 80%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px !important;
+}
+
+.input_field {
+    border: 2px solid rgb(184, 182, 182);
+    font-size: 1.5rem;
+    border-radius: 5px;
+    padding: 0.2rem 0.5rem;
+    width: 50vw;
+    margin-bottom: 1.5rem;
+}
+
+.btn-sent {
+    background-color: rgb(20, 199, 20);
+    color: white;
+    border: none;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    margin-top: 1rem;
+    padding: 0.2rem 1rem;
+}

@@ -1,0 +1,39 @@
+.footer {
+    background-color: #E8F1FF;
+    padding: 1rem;
+}
+
+.footer_img {
+    width: 45%;
+}
+
+.divFooter {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.leftPart {
+    width: 50vw;
+}
+
+.rightPart {
+    padding: 1rem;
+    width: 50vw;
+}
+
+.iframe {
+    width: 45vw;
+    height: 30vw;
+}
+
+.footerText {
+    color: rgb(54, 53, 53);
+
+}
+
+.social {
+    width: 2rem;
+    height: 2rem;
+    margin-right: 0.5rem;
+}

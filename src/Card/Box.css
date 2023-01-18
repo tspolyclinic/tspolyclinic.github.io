@@ -1,0 +1,15 @@
+.pageCard {
+    border: 3px solid #0D8346;
+    border-radius: 10px;
+    color: #0D8346;
+    font-weight: 650 !important;
+    padding: 1rem 0 0.8rem 0;
+    margin: 1rem 0;
+}
+
+.pageCard:hover {
+    background-color: #0D8346;
+    color: white;
+    cursor: pointer;
+    transition: 0.5s;
+}

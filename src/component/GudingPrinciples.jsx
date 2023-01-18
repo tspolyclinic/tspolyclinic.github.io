@@ -8,7 +8,7 @@ import guiding_photo from "../static/Images/asian-young-main-group-hospital-prof
 const GudingPrinciples = () => {
   return (
     <>
-      <div>
+      <div className="p-4">
         <Container fluid>
           <Row>
             <Col className="mt-5">

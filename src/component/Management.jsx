@@ -8,7 +8,7 @@ import management_photo from "../static/Images/portrait-successful-mid-adult-doc
 const Management = () => {
   return (
     <>
-      <div>
+      <div className="p-4">
         <Container fluid>
           <Row>
             <Col className="mt-5">

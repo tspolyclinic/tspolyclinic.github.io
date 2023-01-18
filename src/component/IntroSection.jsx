@@ -9,7 +9,7 @@ import Group_one from "../static/Images/Group 1.png";
 const IntroSection = () => {
   return (
     <>
-      <div className="intro_section">
+      <div className="intro_section p-4">
         <div className="mb-3">
           <img className="logo_img" src={logo} alt="" srcset="" />
         </div>

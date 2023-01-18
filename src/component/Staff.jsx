@@ -3,12 +3,12 @@ import "../css/Staff.css";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import staff_photo from "../static/Images/portrait-successful-mid-adult-doctor-with-crossed-arms_1262-12865 1-1.png";
+import staff_photo from "../static/Images/staff.jpg";
 
 const Staff = () => {
   return (
     <>
-      <div>
+      <div className="p-4">
         <Container fluid>
           <Row>
             <Col className="mt-5">

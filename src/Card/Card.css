@@ -4,12 +4,14 @@
     text-align: center;
     align-items: center;
     margin: 0.5rem;
+    /* height: 12rem; */
     padding: 1rem 0;
+    font-size: 0.60rem;
     border-radius: 10px;
     background-color: white;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 .cardImg {
-    width: 50%;
+    width: 40%;
 }

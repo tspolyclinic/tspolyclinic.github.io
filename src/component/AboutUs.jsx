@@ -8,7 +8,7 @@ import about_photo from "../static/Images/asian-young-main-group-hospital-profes
 const AboutUs = () => {
   return (
     <>
-      <div>
+      <div className="p-4">
         <Container fluid>
           <Row>
             <Col className="mt-5">
