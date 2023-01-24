@@ -17,7 +17,7 @@ const Management = () => {
                 Treatment Solution polyclinic is formed by a team of like mind
                 entrepreneurs who share a common vision of contributing in the
                 Health Sector thereby impacting lives of common man. The Company
-                is owned by an NRI.
+                is owned by an expertise in medical line.
               </p>
               <p className="management_text_sm">
                 He has so many experience on Health care business of high repute

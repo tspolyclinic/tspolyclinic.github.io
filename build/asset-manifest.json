@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d5d860a4.css",
-    "main.js": "/static/js/main.70da0477.js",
+    "main.js": "/static/js/main.1d61d6bd.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/portrait-successful-mid-adult-doctor-with-crossed-arms_1262-12865 1.png": "/static/media/portrait-successful-mid-adult-doctor-with-crossed-arms_1262-12865 1.3d99c66d7436775bb6f9.png",
     "static/media/asian-young-main-group-hospital-professional_1291-37 1-1.png": "/static/media/asian-young-main-group-hospital-professional_1291-37 1-1.a0e2346e0ff44c6dcfbe.png",
@@ -35,11 +35,11 @@
     "static/media/Rectangle 84-9.png": "/static/media/Rectangle 84-9.e8776e04e4871739e429.png",
     "index.html": "/index.html",
     "main.d5d860a4.css.map": "/static/css/main.d5d860a4.css.map",
-    "main.70da0477.js.map": "/static/js/main.70da0477.js.map",
+    "main.1d61d6bd.js.map": "/static/js/main.1d61d6bd.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5d860a4.css",
-    "static/js/main.70da0477.js"
+    "static/js/main.1d61d6bd.js"
   ]
 }

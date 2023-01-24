@@ -67,11 +67,18 @@ const Footer = () => {
               />
               <h6>
                 Proprietor -
-                <span style={{ color: "green" }}>Prithish Kumar Dey (NRI)</span>{" "}
+                <span style={{ color: "green" }}>
+                  Prithish Kumar Dey / Geetali Dey
+                </span>{" "}
               </h6>
               <h6>
                 <EmailIcon className="me-3" style={{ color: "green" }} />
                 prithish.tsp@gmail.com
+              </h6>
+
+              <h6>
+                <EmailIcon className="me-3" style={{ color: "green" }} />
+                geetali.tsp@gmail.com
               </h6>
             </div>
           </div>
